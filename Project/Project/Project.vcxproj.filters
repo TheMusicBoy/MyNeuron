@@ -18,13 +18,13 @@
     <ClCompile Include="Source.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="neuron_base.cpp">
+    <ClCompile Include="include\neuron_base.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="neuron_base.h">
-      <Filter>Исходные файлы</Filter>
+    <ClInclude Include="include\neuron_base.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
