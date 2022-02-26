@@ -1,2 +1,5 @@
 ﻿  neuron_base.cpp
+  stl_neuron.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка E:\Projects\MyNeuron\Project\x64\Debug\Project.exe при последней инкрементной компоновке; выполняется полная компоновка
   Project.vcxproj -> E:\Projects\MyNeuron\Project\x64\Debug\Project.exe
